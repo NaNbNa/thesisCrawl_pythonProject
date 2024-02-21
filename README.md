@@ -21,5 +21,6 @@
 9. 第二个文本框是文献列表,可以快捷查看你想要的文献,并支持点击跳转
 10. 两个文本框均可随时清空
 ### 效果展示
-![image](https://github.com/NaNbNa/thesisCrawl_pythonProject/assets/144761706/f8553f32-fe71-40b9-a63e-068933d602ae)
+![image](https://github.com/NaNbNa/thesisCrawl_pythonProject/assets/144761706/456ee950-8272-4fed-9482-29766cc8daf7)
+
 
