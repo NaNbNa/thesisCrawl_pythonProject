@@ -3,7 +3,7 @@
 ##### 文件和代码同统计
 ![统计](https://github.com/NaNbNa/thesisCrawl_pythonProject/assets/144761706/72b94425-d881-40bd-964d-f63985462e40)
 1. 有学习用的代码,注释详细,已经从python打包成exe
-2. 从两篇博客中受启发二写出的.给出他们的网址
+2. 从两篇博客中受启发而写出的.给出他们的网址
 3. https://blog.csdn.net/weixin_68789096/article/details/130900608
 4. https://blog.csdn.net/bookssea/article/details/107309591
 ### 图形界面
